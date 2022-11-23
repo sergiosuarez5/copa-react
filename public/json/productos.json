@@ -1,0 +1,323 @@
+
+[
+    {
+        "id": 1,
+        "idCategoria": 2,
+        "nombre": "Camiseta Argentina",
+        "marca": "Adidas",
+        "modelo": "Local",
+        "precio": 600,
+        "stock": 30,
+        "img": "argentina.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Camiseta Francia",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 800,
+        "stock": 20,
+        "img": "france.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Camiseta Alemania",
+        "marca": "Adidas",
+        "modelo": "Local",
+        "precio": 700,
+        "stock": 15,
+        "img": "germany.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Camiseta Portugal",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 860,
+        "stock": 25,
+        "img": "portugal.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Camiseta Brasil",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 850,
+        "stock": 30,
+        "img": "brasil.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 1,
+        "nombre": "Camiseta Inglaterra",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 820,
+        "stock": 25,
+        "img": "inglaterra.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 1,
+        "nombre": "Camiseta Belgica",
+        "marca": "Adidas",
+        "modelo": "Local",
+        "precio": 500,
+        "stock": 7,
+        "img": "belgica.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 1,
+        "nombre": "Camiseta España",
+        "marca": "Adidas",
+        "modelo": "Local",
+        "precio": 810,
+        "stock": 25,
+        "img": "spain.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 5,
+        "nombre": "Camiseta Canada",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 390,
+        "stock": 20,
+        "img": "canada.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 4,
+        "nombre": "Camiseta Ghana",
+        "marca": "Puma",
+        "modelo": "Local",
+        "precio": 250,
+        "stock": 10,
+        "img": "ghana.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 3,
+        "nombre": "Camiseta Corea del Sur",
+        "marca": "Adidas",
+        "modelo": "Local",
+        "precio": 450,
+        "stock": 30,
+        "img": "coreasur.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 2,
+        "nombre": "Camiseta Ecuador",
+        "marca": "Marathon",
+        "modelo": "Local",
+        "precio": 340,
+        "stock": 21,
+        "img": "ecuador.jpg"
+    },
+    {
+        "id": 13,
+        "idCategoria": 1,
+        "nombre": "Camiseta Croacia",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "croacia.jpg"
+    },
+    {
+        "id": 14,
+        "idCategoria": 1,
+        "nombre": "Camiseta Suiza",
+        "marca": "Puma",
+        "modelo": "Local",
+        "precio": 390,
+        "stock": 25,
+        "img": "suiza.jpg"
+    },
+    {
+        "id": 15,
+        "idCategoria": 4,
+        "nombre": "Camiseta Tunez",
+        "marca": "Kappa",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "tunez.jpg"
+    },
+    {
+        "id": 16,
+        "idCategoria": 1,
+        "nombre": "Camiseta USA",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 590,
+        "stock": 25,
+        "img": "usa.jpg"
+    },
+    {
+        "id": 17,
+        "idCategoria": 2,
+        "nombre": "Camiseta Uruguay",
+        "marca": "Puma",
+        "modelo": "Local",
+        "precio": 490,
+        "stock": 25,
+        "img": "uruguay.jpg"
+    },
+    {
+        "id": 18,
+        "idCategoria": 1,
+        "nombre": "Camiseta Holanda",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "holanda.jpg"
+    },
+    {
+        "id": 19,
+        "idCategoria": 4,
+        "nombre": "Camiseta Camerun",
+        "marca": "One",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "camerun.jpg"
+    },
+    {
+        "id": 20,
+        "idCategoria": 1,
+        "nombre": "Camiseta Dinamark",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "dinamark.jpg"
+    },
+    {
+        "id": 21,
+        "idCategoria": 4,
+        "nombre": "Camiseta Arabia Saudita",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 260,
+        "stock": 25,
+        "img": "arabia.jpg"
+    },
+    {
+        "id": 22,
+        "idCategoria": 5,
+        "nombre": "Camiseta Costa Rica",
+        "marca": "New Balance",
+        "modelo": "Local",
+        "precio": 290,
+        "stock": 25,
+        "img": "costarica.jpg"
+    },
+    {
+        "id": 23,
+        "idCategoria": 3,
+        "nombre": "Camiseta Australia",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "australia.jpg"
+    },
+    {
+        "id": 24,
+        "idCategoria": 5,
+        "nombre": "Camiseta Mexico",
+        "marca": "Adidas",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "mexico.jpg"
+    },
+    {
+        "id": 25,
+        "idCategoria": 4,
+        "nombre": "Camiseta Senegal",
+        "marca": "Puma",
+        "modelo": "Local",
+        "precio": 290,
+        "stock": 25,
+        "img": "senegal.jpg"
+    },
+    {
+        "id": 26,
+        "idCategoria": 3,
+        "nombre": "Camiseta Qatar",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "qatar.jpg"
+    },
+    {
+        "id": 27,
+        "idCategoria": 1,
+        "nombre": "Camiseta Polonia",
+        "marca": "Nike",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "polonia.jpg"
+    },
+    {
+        "id": 28,
+        "idCategoria": 4,
+        "nombre": "Camiseta Marruecos",
+        "marca": "Puma",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "marruecos.jpg"
+    },
+    {
+        "id": 29,
+        "idCategoria": 4,
+        "nombre": "Camiseta Iran",
+        "marca": "Majid",
+        "modelo": "Local",
+        "precio": 300,
+        "stock": 25,
+        "img": "iran.jpg"
+    },
+    {
+        "id": 30,
+        "idCategoria": 1,
+        "nombre": "Camiseta Serbia",
+        "marca": "Puma",
+        "modelo": "Local",
+        "precio": 480,
+        "stock": 25,
+        "img": "serbia.jpg"
+    },
+    {
+        "id": 31,
+        "idCategoria": 3,
+        "nombre": "Camiseta Japan",
+        "marca": "Adidas",
+        "modelo": "Local",
+        "precio": 690,
+        "stock": 25,
+        "img": "japan.jpg"
+    },
+    {
+        "id": 32,
+        "idCategoria": 1,
+        "nombre": "Camiseta Gales",
+        "marca": "Adidas",
+        "modelo": "Local",
+        "precio": 560,
+        "stock": 25,
+        "img": "gales.jpg"
+    }
+]

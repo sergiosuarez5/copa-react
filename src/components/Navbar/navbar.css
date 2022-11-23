@@ -1,0 +1,33 @@
+nav{
+    border-bottom: 1px solid transparent;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, .2);
+    background-color: #8D1C3D;
+    transition: ease-in-out 0.5s;
+}
+.A {
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.A:hover{
+    color: #8D1C3D;
+}
+.bro {
+    background-color: #fff;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+.bi-cart3 {
+    color: #8D1C3D;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.bi-cart3:hover{
+    color: #63A194;
+}
+.logo {
+    width: 60px;
+}
+
