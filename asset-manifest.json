@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/copa-react/static/css/main.a1a4d835.css",
+    "main.js": "/copa-react/static/js/main.88338e8d.js",
+    "static/media/fondo.png": "/copa-react/static/media/fondo.e6203eccd614c97f8b30.png",
+    "index.html": "/copa-react/index.html",
+    "main.a1a4d835.css.map": "/copa-react/static/css/main.a1a4d835.css.map",
+    "main.88338e8d.js.map": "/copa-react/static/js/main.88338e8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a4d835.css",
+    "static/js/main.88338e8d.js"
+  ]
+}
